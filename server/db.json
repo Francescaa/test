@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "label": "Marta",
+      "gender": "F",
+      "id": 11
+    },
+    {
+      "label": "Marco",
+      "gender": "M",
+      "id": 12
+    },
+    {
+      "label": "mary",
+      "gender": "F",
+      "id": 13
+    }
+  ]
+}
