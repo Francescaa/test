@@ -8,7 +8,7 @@ import { UsersService } from './services/users.service';
   template: `
     <div class="container">
       <h4>Users</h4>
-
+      <hr>
       <div class="alert alert-danger" *ngIf="error">
         Server side error
       </div>
